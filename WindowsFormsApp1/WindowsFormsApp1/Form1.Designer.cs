@@ -42,7 +42,7 @@ namespace WindowsFormsApp1
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(102, 110);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(246, 39);
+            this.label1.Size = new System.Drawing.Size(235, 38);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên đăng nhập";
             // 
@@ -60,7 +60,7 @@ namespace WindowsFormsApp1
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(102, 168);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(156, 39);
+            this.label2.Size = new System.Drawing.Size(151, 38);
             this.label2.TabIndex = 0;
             this.label2.Text = "Mật khẩu";
             // 
@@ -78,7 +78,7 @@ namespace WindowsFormsApp1
             this.button1.ForeColor = System.Drawing.Color.Lime;
             this.button1.Location = new System.Drawing.Point(298, 291);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(203, 49);
+            this.button1.Size = new System.Drawing.Size(216, 64);
             this.button1.TabIndex = 2;
             this.button1.Text = "Đăng nhập";
             this.button1.UseVisualStyleBackColor = true;
