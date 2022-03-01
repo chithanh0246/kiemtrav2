@@ -71,6 +71,7 @@ namespace WindowsFormsApp1
             this.txtPassWord.Name = "txtPassWord";
             this.txtPassWord.Size = new System.Drawing.Size(328, 45);
             this.txtPassWord.TabIndex = 1;
+            this.txtPassWord.UseSystemPasswordChar = true;
             // 
             // button1
             // 
