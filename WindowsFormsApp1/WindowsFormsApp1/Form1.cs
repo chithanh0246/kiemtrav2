@@ -16,5 +16,15 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (txtUserName.Text == "admin" && txtPassWord.Text == "admin") {
+                MessageBox.Show("Đăng nhập thành công!");
+            }
+            else {
+                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không chính xác!");
+            }
+        }
     }
 }
