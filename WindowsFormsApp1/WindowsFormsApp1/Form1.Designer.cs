@@ -41,9 +41,9 @@ namespace WindowsFormsApp1
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(156, 108);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 16);
+            this.label1.Size = new System.Drawing.Size(105, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "Tên đăng nhập";
             // 
             // txtUserName
             // 
@@ -57,9 +57,9 @@ namespace WindowsFormsApp1
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(156, 171);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(71, 16);
+            this.label2.Size = new System.Drawing.Size(66, 17);
             this.label2.TabIndex = 0;
-            this.label2.Text = "PassWord";
+            this.label2.Text = "Mật khẩu";
             // 
             // txtPassWord
             // 
